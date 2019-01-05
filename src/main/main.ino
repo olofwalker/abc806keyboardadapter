@@ -20,9 +20,8 @@
 #include <util/delay.h>
 #include <assert.h>
 
-#include "kdbparser.h"
 #include "abc806serialdriver.h"
-
+#include "kdbparser.h"
 
 USB                                 usb;
 HIDBoot<USB_HID_PROTOCOL_KEYBOARD>  HidKeyboard(&usb);

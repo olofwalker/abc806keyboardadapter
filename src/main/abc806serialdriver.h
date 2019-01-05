@@ -21,7 +21,6 @@
 
 #include <avr/io.h>  
 #include <util/delay.h>
-#include <assert.h>
 
 // Class with used to communicate with the ABC80x, its hard coded to
 // use the first usart 

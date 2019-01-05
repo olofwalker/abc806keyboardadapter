@@ -23,9 +23,9 @@
 #define ABC_KEY_BS              8   // Backspace
 #define ABC_KEY_BELL            7   // Ctrl-g
 #define ABC_KEY_HT              9   // "Forward"
-#define ABC_KEY_LF              10  // Ctrl-m
-#define ABC_KEY_CS              12  // Ctrl-m
-#define ABC_KEY_ENTER           13  // Enter
+#define ABC_KEY_LF              10  // Ctrl-j
+#define ABC_KEY_CS              12  // Ctrl-l
+#define ABC_KEY_ENTER           13  // Ctrl-m / Enter
 #define ABC_KEY_STEP            19  // Ctrl-s
 #define ABC_KEY_KILL            24  // Ctrl-x
 

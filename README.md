@@ -4,22 +4,22 @@ This project is released under the GNU General Public License v2.
 
 ## Summary
 
-This project contains the software needed to build a USB keyboard adapter for the Luxor ABC 806 computer.
+This project contains the software needed to build a USB keyboard adapter for the [Luxor ABC 806 computer](http://www.pc-museum.com/luxor/index.htm).
 
 ## Required hardware
 
-    - [Arudino USB Host shield Uno](https://store.arduino.cc/arduino-uno-rev3) (or compatible)
-    - [Arudino USB Host shield USB Host shield](https://store.arduino.cc/arduino-usb-host-shield)
+- [Arudino USB Host shield Uno](https://store.arduino.cc/arduino-uno-rev3) (or compatible)
+- [Arudino USB Host shield USB Host shield](https://store.arduino.cc/arduino-usb-host-shield)
 
 ## Required Software
 
-    - [Arudino IDE](https://www.arduino.cc/en/main/software)
+- [Arudino IDE](https://www.arduino.cc/en/main/software)
     
 While the Arduino IDE is serviceable, VS Code together with the new [Arduino plugin](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino) gives a far better development experience.
 
 ## Library dependencies
 
-    - [USB Host Shield Library 2.0](https://github.com/felis/USB_Host_Shield_2.0)
+- [USB Host Shield Library 2.0](https://github.com/felis/USB_Host_Shield_2.0)
     
 ## Pin mappings
 
