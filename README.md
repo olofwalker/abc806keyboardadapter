@@ -1,6 +1,6 @@
 # ABC 806 Keyboard adapter
 
-This project is released under the GNU General Public License v2.
+This project is released under the GNU General Public License v3.
 
 ## Summary
 
