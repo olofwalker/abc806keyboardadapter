@@ -37,7 +37,7 @@ This is how the pins should be mapped between the Arduino Uno board and the ABC 
 
 ## Information about the serial connection
 
-The keyboard is connected to the B channel of the Z80 dart using an asynchronous serial connection. In addition to the serial connection the keyboard side generates a 10 khz signal as well as a `keydown` event, triggering an processor interrupt.
+The keyboard is connected to the B channel of the Z80 dart using an asynchronous serial connection. In addition to the serial connection the keyboard side generates a 10 khz signal as well as a `keydown` event, triggering a processor interrupt.
 
 These are the setting of the serial connection:
 
