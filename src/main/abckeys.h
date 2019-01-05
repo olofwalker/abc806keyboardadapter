@@ -103,8 +103,8 @@
 #define ABC_KEY_GL              103
 #define ABC_KEY_HL              104
 #define ABC_KEY_IL              105
-#define ABC_KEY_KL              106
-#define ABC_KEY_JL              107
+#define ABC_KEY_JL              106
+#define ABC_KEY_KL              107
 #define ABC_KEY_LL              108
 #define ABC_KEY_ML              109
 #define ABC_KEY_NL              110
