@@ -8,12 +8,12 @@ This project contains the software needed to build a USB keyboard adapter for th
 
 ## Required hardware
 
-- [Arudino USB Host shield Uno](https://store.arduino.cc/arduino-uno-rev3) (or compatible)
-- [Arudino USB Host shield USB Host shield](https://store.arduino.cc/arduino-usb-host-shield)
+- [Arduino USB Host shield Uno](https://store.arduino.cc/arduino-uno-rev3) (or compatible)
+- [Arduino USB Host shield USB Host shield](https://store.arduino.cc/arduino-usb-host-shield)
 
 ## Required Software
 
-- [Arudino IDE](https://www.arduino.cc/en/main/software)
+- [Arduino IDE](https://www.arduino.cc/en/main/software)
     
 While the Arduino IDE is serviceable, VS Code together with the new [Arduino plugin](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino) gives a far better development experience.
 
