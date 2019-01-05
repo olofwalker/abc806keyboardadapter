@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino",
+            "includePath": [
+                "/home/rwalker/Program/arduino/tools/**",
+                "/home/rwalker/Program/arduino/hardware/arduino/avr/**",
+                "/home/rwalker/Program/arduino/hardware/tools/avr/avr/include/**",
+                "/home/rwalker/Arduino/libraries/**",   
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "forcedInclude": [
+                "/home/rwalker/Program/arduino/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ]
+        },
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/rwalker/Program/arduino/tools/**",
+                "/home/rwalker/Program/arduino/hardware/arduino/avr/**"
+            ],
+            "forcedInclude": [
+                "/home/rwalker/Program/arduino/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ]
+        }
+    ],
+    "version": 4
+}
