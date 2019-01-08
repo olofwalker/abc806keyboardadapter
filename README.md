@@ -45,3 +45,7 @@ These are the setting of the serial connection:
     - 8 bits
     - no parity
     - 2 stop bits
+    
+## Note on compatibility 
+
+Since the ABC 806 is closely related to ABC 800 C/M and ABC 802, its very likely that this project will work for those machine types as well. Its possible also that the project can be used with the ABC 1600 Unix workstation.
