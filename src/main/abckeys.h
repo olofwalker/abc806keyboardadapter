@@ -42,7 +42,7 @@
 #define ABC_KEY_STAR            42
 #define ABC_KEY_PLUS            43
 #define ABC_KEY_COMMA           44
-#define ABC_KEY_UNDERSCORE      45
+#define ABC_KEY_MINUS           45
 #define ABC_KEY_DOT             46
 #define ABC_KEY_FSLASH          47
 #define ABC_KEY_ZERO            48
@@ -92,7 +92,7 @@
 #define ABC_KEY_92              92  // Ö
 #define ABC_KEY_93              93  // Å
 #define ABC_KEY_94              94  // Ü
-#define ABC_KEY_MINUS           95
+#define ABC_KEY_UNDERSCORE      95
 #define ABC_KEY_96              96  // é
 #define ABC_KEY_AL              97
 #define ABC_KEY_BL              98
